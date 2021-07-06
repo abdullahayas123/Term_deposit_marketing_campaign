@@ -1,12 +1,5 @@
 # Bank XYZ Marketing Campaign in Portugal using Machine Learning
 
-ScipyGroup_JC_DS_12_FinalProject
-
-Member :
-- Abdullah Sayyid Ayyash (ayasabdullah4@gmail.com)
-- Hendri Tedjo (hendri.tedjo@gmail.com)
-- Hizkya Natali (hizkyanatali@gmail.com)
-
 Dataset taken from : [Bank XYZ Marketing Campaign in Portugal Dataset](https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset)
 
 <hr>
